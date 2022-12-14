@@ -12,6 +12,6 @@ In each category, you would find all related stores listed in it. Ex: In Fashion
 
 ![Screenshot_2022-12-14-20-30-48-493_com example natraj 1](https://user-images.githubusercontent.com/89199093/207634071-1092b6f5-3325-45c2-9f77-15767962a23b.jpg)
 
-![Screenshot_2022-12-14-20-31-01-811_com example natraj 1](https://user-images.githubusercontent.com/89199093/207634238-f86c6acb-6f1e-4f4e-a399-f8ad7f47f86f.jpg)
+![Screenshot_2022-12-14-20-31-01-811_com example natraj 1](https://user-images.githubusercontent.com/89199093/207634238-f86c6acb-6f1e-4f4e-a399-f8ad7f47f86f.jpg | width=50)
 
 ![Screenshot_2022-12-14-20-31-08-526_com example natraj 1](https://user-images.githubusercontent.com/89199093/207634382-97c8cbde-3ebc-4d97-9e65-c9e33bc222ff.jpg)
